@@ -5,7 +5,6 @@ import '../models/photos.dart';
 import '../models/hearts.dart';
 import '../database_config/firestore_service.dart';
 import './editmodal.dart';
-import './home.dart';
 import './likemodal.dart';
 
 class PhotooptionsScreen extends StatefulWidget {

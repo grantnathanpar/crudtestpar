@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/grant/workspace/crudtestpar/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
+            "outputFile": "/home/grant/workspace/git/crudtestpar/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-watch-v20/values-watch-v20.xml",
             "map": [
                 {
                     "source": "/home/grant/.gradle/caches/transforms-2/files-2.1/28ac3be65a937410e1c2fad08b0906cd/jetified-play-services-auth-16.0.1/res/values-watch-v20/values.xml",

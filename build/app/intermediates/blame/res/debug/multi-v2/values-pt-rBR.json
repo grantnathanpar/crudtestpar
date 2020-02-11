@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/grant/workspace/crudtestpar/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
+            "outputFile": "/home/grant/workspace/git/crudtestpar/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-pt-rBR/values-pt-rBR.xml",
             "map": [
                 {
                     "source": "/home/grant/.gradle/caches/transforms-2/files-2.1/247e991152ee0fd866dda23bb8e253cc/jetified-play-services-basement-17.0.0/res/values-pt-rBR/values.xml",

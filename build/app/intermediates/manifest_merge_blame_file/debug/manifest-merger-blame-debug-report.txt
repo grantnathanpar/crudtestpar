@@ -12,8 +12,8 @@
 12         to allow setting breakpoints, to provide hot reload, etc.
 13    -->
 14    <uses-permission android:name="android.permission.INTERNET" />
-14-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:11:5-67
-14-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:11:22-64
+14-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:11:5-67
+14-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:11:22-64
 15    <!--
 16     io.flutter.app.FlutterApplication is an android.app.Application that
 17         calls FlutterMain.startInitialization(this); in its onCreate method.
@@ -22,53 +22,53 @@
 20         FlutterApplication and put your custom class here.
 21    -->
 22    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-22-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:8:5-81
-22-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:8:22-78
+22-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:8:5-81
+22-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:8:22-78
 23    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
-23-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:9:5-80
-23-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:9:22-77
+23-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:9:5-80
+23-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:9:22-77
 24    <uses-permission android:name="android.permission.CAMERA" /> <!-- Although the *SdkVersion is captured in gradle build files, this is required for non gradle builds -->
-24-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:10:5-65
-24-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:10:22-62
+24-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:10:5-65
+24-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:10:22-62
 25    <!-- <uses-sdk android:minSdkVersion="14"/> -->
 26    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 26-->[com.google.firebase:firebase-storage:17.0.0] /home/grant/.gradle/caches/transforms-2/files-2.1/611867c3ab4d500ccfeea708c5573beb/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:5-79
 26-->[com.google.firebase:firebase-storage:17.0.0] /home/grant/.gradle/caches/transforms-2/files-2.1/611867c3ab4d500ccfeea708c5573beb/jetified-firebase-storage-17.0.0/AndroidManifest.xml:26:22-76
 27
 28    <application
-28-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:12:5-33:19
+28-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:12:5-33:19
 29        android:name="io.flutter.app.FlutterApplication"
-29-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:13:9-57
+29-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:13:9-57
 30        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
 30-->[androidx.core:core:1.0.0] /home/grant/.gradle/caches/transforms-2/files-2.1/c1da7862c7abb8e426855a3f78caf221/core-1.0.0/AndroidManifest.xml:22:18-86
 31        android:debuggable="true"
 32        android:icon="@mipmap/ic_launcher"
-32-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:15:9-43
+32-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:15:9-43
 33        android:label="crudtestpar" >
-33-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:14:9-36
+33-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:14:9-36
 34        <activity
-34-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:16:9-27:20
+34-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:16:9-27:20
 35            android:name="com.example.crudtestpar.MainActivity"
-35-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:17:13-41
+35-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:17:13-41
 36            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
-36-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:20:13-163
+36-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:20:13-163
 37            android:hardwareAccelerated="true"
-37-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:21:13-47
+37-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:21:13-47
 38            android:launchMode="singleTop"
-38-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:18:13-43
+38-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:18:13-43
 39            android:theme="@style/LaunchTheme"
-39-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:19:13-47
+39-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:19:13-47
 40            android:windowSoftInputMode="adjustResize" >
-40-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:22:13-55
+40-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:22:13-55
 41            <intent-filter>
-41-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:23:13-26:29
+41-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:23:13-26:29
 42                <action android:name="android.intent.action.MAIN" />
-42-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:24:17-68
-42-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:24:25-66
+42-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:24:17-68
+42-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:24:25-66
 43
 44                <category android:name="android.intent.category.LAUNCHER" />
-44-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:25:17-76
-44-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:25:27-74
+44-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:25:17-76
+44-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:25:27-74
 45            </intent-filter>
 46        </activity>
 47        <!--
@@ -76,44 +76,44 @@
 49             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
 50        -->
 51        <meta-data
-51-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:30:9-32:33
+51-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:30:9-32:33
 52            android:name="flutterEmbedding"
-52-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:31:13-44
+52-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:31:13-44
 53            android:value="2" />
-53-->/home/grant/workspace/crudtestpar/android/app/src/main/AndroidManifest.xml:32:13-30
+53-->/home/grant/workspace/git/crudtestpar/android/app/src/main/AndroidManifest.xml:32:13-30
 54
 55        <service
-55-->[:firebase_storage] /home/grant/workspace/crudtestpar/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
+55-->[:firebase_storage] /home/grant/workspace/git/crudtestpar/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:9-12:19
 56            android:name="com.google.firebase.components.ComponentDiscoveryService"
-56-->[:firebase_storage] /home/grant/workspace/crudtestpar/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
+56-->[:firebase_storage] /home/grant/workspace/git/crudtestpar/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:8:18-89
 57            android:directBootAware="true"
 57-->[com.google.firebase:firebase-common:19.3.0] /home/grant/.gradle/caches/transforms-2/files-2.1/730a333f7630516f880034342d2676f3/jetified-firebase-common-19.3.0/AndroidManifest.xml:34:13-43
 58            android:exported="false" >
 58-->[com.google.firebase:firebase-auth:19.2.0] /home/grant/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:35:13-37
 59            <meta-data
-59-->[:firebase_storage] /home/grant/workspace/crudtestpar/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+59-->[:firebase_storage] /home/grant/workspace/git/crudtestpar/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 60                android:name="com.google.firebase.components:io.flutter.plugins.firebase.storage.FlutterFirebaseAppRegistrar"
-60-->[:firebase_storage] /home/grant/workspace/crudtestpar/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
+60-->[:firebase_storage] /home/grant/workspace/git/crudtestpar/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-126
 61                android:value="com.google.firebase.components.ComponentRegistrar" />
-61-->[:firebase_storage] /home/grant/workspace/crudtestpar/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+61-->[:firebase_storage] /home/grant/workspace/git/crudtestpar/build/firebase_storage/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 62            <meta-data
-62-->[:firebase_auth] /home/grant/workspace/crudtestpar/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+62-->[:firebase_auth] /home/grant/workspace/git/crudtestpar/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 63                android:name="com.google.firebase.components:io.flutter.plugins.firebaseauth.FlutterFirebaseAppRegistrar"
-63-->[:firebase_auth] /home/grant/workspace/crudtestpar/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
+63-->[:firebase_auth] /home/grant/workspace/git/crudtestpar/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-122
 64                android:value="com.google.firebase.components.ComponentRegistrar" />
-64-->[:firebase_auth] /home/grant/workspace/crudtestpar/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+64-->[:firebase_auth] /home/grant/workspace/git/crudtestpar/build/firebase_auth/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 65            <meta-data
-65-->[:cloud_firestore] /home/grant/workspace/crudtestpar/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+65-->[:cloud_firestore] /home/grant/workspace/git/crudtestpar/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 66                android:name="com.google.firebase.components:io.flutter.plugins.firebase.cloudfirestore.FlutterFirebaseAppRegistrar"
-66-->[:cloud_firestore] /home/grant/workspace/crudtestpar/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
+66-->[:cloud_firestore] /home/grant/workspace/git/crudtestpar/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-133
 67                android:value="com.google.firebase.components.ComponentRegistrar" />
-67-->[:cloud_firestore] /home/grant/workspace/crudtestpar/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+67-->[:cloud_firestore] /home/grant/workspace/git/crudtestpar/build/cloud_firestore/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 68            <meta-data
-68-->[:firebase_core] /home/grant/workspace/crudtestpar/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
+68-->[:firebase_core] /home/grant/workspace/git/crudtestpar/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:9:13-11:85
 69                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseAppRegistrar"
-69-->[:firebase_core] /home/grant/workspace/crudtestpar/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
+69-->[:firebase_core] /home/grant/workspace/git/crudtestpar/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:10:17-123
 70                android:value="com.google.firebase.components.ComponentRegistrar" />
-70-->[:firebase_core] /home/grant/workspace/crudtestpar/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
+70-->[:firebase_core] /home/grant/workspace/git/crudtestpar/build/firebase_core/intermediates/library_manifest/debug/AndroidManifest.xml:11:17-82
 71            <meta-data
 71-->[com.google.firebase:firebase-auth:19.2.0] /home/grant/.gradle/caches/transforms-2/files-2.1/a83bb62cb43b672cf00b874e0ee6110c/firebase-auth-19.2.0/AndroidManifest.xml:36:13-38:85
 72                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"

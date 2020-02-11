@@ -1,0 +1,10 @@
+# This is a generated file; do not edit or check into version control.
+cloud_firestore=/home/grant/development/flutter/.pub-cache/hosted/pub.dartlang.org/cloud_firestore-0.13.1+1/
+firebase_auth=/home/grant/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth-0.15.4/
+firebase_auth_web=/home/grant/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_auth_web-0.1.2/
+firebase_core=/home/grant/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core-0.4.3+3/
+firebase_core_web=/home/grant/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_core_web-0.1.1+2/
+firebase_storage=/home/grant/development/flutter/.pub-cache/hosted/pub.dartlang.org/firebase_storage-3.1.1/
+google_sign_in=/home/grant/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in-4.1.1/
+google_sign_in_web=/home/grant/development/flutter/.pub-cache/hosted/pub.dartlang.org/google_sign_in_web-0.8.3+1/
+multi_image_picker=/home/grant/development/flutter/.pub-cache/hosted/pub.dartlang.org/multi_image_picker-4.6.1/

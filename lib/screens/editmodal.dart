@@ -23,6 +23,7 @@ class _EditModalState extends State<EditModal> {
           children: <Widget>[
             TextField(
               controller: labelcontroller,
+              maxLength: 10,
               decoration: InputDecoration(hintText: 'Label'),
             ),
             RaisedButton(

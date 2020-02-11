@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/grant/workspace/crudtestpar/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "outputFile": "/home/grant/workspace/git/crudtestpar/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
             "map": [
                 {
                     "source": "/home/grant/.gradle/caches/transforms-2/files-2.1/320f42d94b5dc6740cc97c4e2200da41/recyclerview-1.0.0/res/values/values.xml",
@@ -154,6 +154,42 @@
                     }
                 },
                 {
+                    "source": "/home/grant/workspace/git/crudtestpar/build/app/generated/res/google-services/debug/values/values.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,199,313,395,499,608,728,831",
+                        "endColumns": "143,113,81,103,108,119,102,79",
+                        "endOffsets": "194,308,390,494,603,723,826,906"
+                    },
+                    "to": {
+                        "startLines": "597,602,603,604,605,606,607,622",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "37497,38039,38153,38235,38339,38448,38568,40213",
+                        "endColumns": "143,113,81,103,108,119,102,79",
+                        "endOffsets": "37636,38148,38230,38334,38443,38563,38666,40288"
+                    }
+                },
+                {
+                    "source": "/home/grant/workspace/git/crudtestpar/android/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "347"
+                    },
+                    "to": {
+                        "startLines": "2064",
+                        "startColumns": "4",
+                        "startOffsets": "133911",
+                        "endLines": "2068",
+                        "endColumns": "12",
+                        "endOffsets": "134203"
+                    }
+                },
+                {
                     "source": "/home/grant/.gradle/caches/transforms-2/files-2.1/d255798b3263f4a3c8e304b7de4de531/coordinatorlayout-1.0.0/res/values/values.xml",
                     "from": {
                         "startLines": "2,102,3,13",
@@ -190,25 +226,6 @@
                     }
                 },
                 {
-                    "source": "/home/grant/workspace/crudtestpar/android/app/src/main/res/values/styles.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "55",
-                        "endLines": "6",
-                        "endColumns": "12",
-                        "endOffsets": "347"
-                    },
-                    "to": {
-                        "startLines": "2064",
-                        "startColumns": "4",
-                        "startOffsets": "133911",
-                        "endLines": "2068",
-                        "endColumns": "12",
-                        "endOffsets": "134203"
-                    }
-                },
-                {
                     "source": "/home/grant/.gradle/caches/transforms-2/files-2.1/489652a88138ef44a09de31d12f00bc5/jetified-FishBun-0.11.2/res/values/values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,20",
@@ -242,23 +259,6 @@
                         "startOffsets": "31355,36204",
                         "endColumns": "67,166",
                         "endOffsets": "31418,36366"
-                    }
-                },
-                {
-                    "source": "/home/grant/workspace/crudtestpar/build/app/generated/res/google-services/debug/values/values.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,199,313,395,499,608,728,831",
-                        "endColumns": "143,113,81,103,108,119,102,79",
-                        "endOffsets": "194,308,390,494,603,723,826,906"
-                    },
-                    "to": {
-                        "startLines": "597,602,603,604,605,606,607,622",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "37497,38039,38153,38235,38339,38448,38568,40213",
-                        "endColumns": "143,113,81,103,108,119,102,79",
-                        "endOffsets": "37636,38148,38230,38334,38443,38563,38666,40288"
                     }
                 }
             ]

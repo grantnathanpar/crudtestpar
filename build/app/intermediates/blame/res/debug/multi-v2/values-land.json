@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/grant/workspace/crudtestpar/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
+            "outputFile": "/home/grant/workspace/git/crudtestpar/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
                     "source": "/home/grant/.gradle/caches/transforms-2/files-2.1/5b8189b26ae1b4d34292ca3a7096c0e3/material-1.0.0/res/values-land/values-land.xml",

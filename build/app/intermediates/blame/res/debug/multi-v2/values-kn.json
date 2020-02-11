@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "/home/grant/workspace/crudtestpar/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
+            "outputFile": "/home/grant/workspace/git/crudtestpar/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-kn/values-kn.xml",
             "map": [
                 {
                     "source": "/home/grant/.gradle/caches/transforms-2/files-2.1/6eb14f512292913515d869914807ad40/play-services-base-17.1.0/res/values-kn/values.xml",

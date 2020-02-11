@@ -98,6 +98,7 @@ class _UploadingScreenState extends State<UploadingScreen> {
                       width: 170,
                       margin: EdgeInsets.only(left: 20),
                       child: TextField(
+                        maxLength: 10,
                         controller: texteditingcontrollers[index],
                         decoration:
                             InputDecoration(hintText: 'Insert Label Here'),

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:firebase_auth/firebase_auth.dart';
 import '../database_config/sign_in.dart';
 import './home.dart';
 
@@ -48,7 +49,7 @@ class _LoginScreenState extends State<LoginScreen> {
                   ),
                 ),
                 onPressed: !_loading
-                    ? () {
+                    ? () async {
                         setState(() {
                           _loading = true;
                         });
